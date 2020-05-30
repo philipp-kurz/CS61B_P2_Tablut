@@ -1,0 +1,23 @@
+<html>
+<h1>Tablut</h1>
+
+Tablut is an ancient board game, one of a family of related games that were played in Nordic and Celtic countries.
+
+<br><br>
+<b>Rules</b>
+<br><br>
+
+There are two sides: 8 defenders ("Swedes") whose goal is to defend their king until he can escape to an edge of the board, and 16 attackers ("Muscovites"), whose goal is to capture the king before he escapes. The attackers (black pieces) move first, after which the two sides alternate. All pieces move as chess rooks: any number of unobstructed squares horizontally or vertically without jumpimg over or onto an occupied square. The middle square, called the throne (originally, the "castle"), may only be occupied by the king, although any piece may pass over it when unoccupied.
+<br><br>
+To capture an opposing piece other than the king, one side must surround that piece on two opposite sides by its own pieces. Alternatively, when the throne is unoccupied by the king, any enemy piece other than the king on one of the four squares adjacent to the throne may be captured by moving to the square on the other side of that piece from the throne. Finally, when the throne is occupied by the king and three of the squares adjacent to the throne are occupied by black pieces, a defending white piece on the remaining adjacent square may likewise be captured by moving to the square opposite the throne from it.
+<br><br>
+When not on the throne or one of the adjacent squares, the king may be captured like any other piece. To capture the king on the throne, black must occupy all four adjacent squares, surrounding the king on four sides. To capture the king when it is adjacent to the throne, black must surround it on the three sides other than the throne.
+<br><br>
+Pieces are captured only when surrounded in this fashion by an enemy move; one may move between two enemy pieces without being captured.
+<br><br>
+Black wins by capturing the king, and white by moving the king to an edge of the board. In addition, a side loses when it has no move on its turn, or when it moves so as to repeat a previous board position (same arrangement of pieces with the same player to move).
+<br><br>
+<b>Controlling Play</b><br><br>
+To move a piece, click on the piece and then click on the square to which you wish to move it.
+<br><br>
+The Settings menu allows you to choose which side(s) are played by automated players, and to set a random seed that provides any random factor that the automated players may choose to use (so that they play identically when given the same seed). It also allows you to enter or leave "set-up mode", in which clicking on a square changes the piece on that square in a sequence EMPTY->WHITE->KING->BLACK->EMPTY.
