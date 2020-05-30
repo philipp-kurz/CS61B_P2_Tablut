@@ -10,5 +10,7 @@ The code is based on skeleton code from the class. Project was completed using t
 
 ---
 
+Me playing against my own Minimax AI - clearly the AI is much better! 😁
+
 ![ezgif-3-3b3b779e3501](https://user-images.githubusercontent.com/54779918/83333833-e2b2ed00-a2a2-11ea-82cc-9e0b6f66fb50.gif)
 
