@@ -9,3 +9,5 @@ The code is based on skeleton code from the class. Project was completed using t
 [Web version of the game](http://www.lutanho.net/play/hnefatafl.html)
 
 ---
+
+![tablut](https://user-images.githubusercontent.com/54779918/83333724-5274a800-a2a2-11ea-8d84-128819489ed2.gif)
